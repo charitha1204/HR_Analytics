@@ -4,7 +4,7 @@
 The main objective is to analyze employee attrition — identifying patterns, departments most affected, and possible contributing factors — to support better HR decision-making.
 
 📁 Dataset
-HR_Analytics.xlsx: Contains employee-level data with fields like age, department, job role, job satisfaction, attrition status, etc.
+**HR_Analytics.xlsx:** Contains employee-level data with fields like age, department, job role, job satisfaction, attrition status, etc.
 Loaded and cleaned using Power Query before being used in the dashboard.
 
 **🧮 DAX Measures & Calculations**
