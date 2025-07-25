@@ -31,6 +31,7 @@ This dashboard gives a clear, visual summary of employee attrition. It helps HR 
 
 ## 📸 Dashboard Screenshot
 
-[Click to view dashboard screenshot](https://raw.githubusercontent.com/charitha1204/HR_Analytics/main/Screenshot/image.png)
+[Click to view screenshot](https://raw.githubusercontent.com/charitha1204/HR_Analytics/main/Screenshot/image.png)
+
 
 
