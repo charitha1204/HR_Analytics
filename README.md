@@ -17,7 +17,7 @@ The dashboard was built using the following tools and technologies:
 **PBIX File Format** – Power BI’s proprietary report file containing data model, visuals, and layout.
 
 **📂 4. Data Source**
-**hr_analytics.xlsx **– A sample HR dataset containing employee demographic and employment details used for attrition analysis.
+**hr_analytics.xlsx** – A sample HR dataset containing employee demographic and employment details used for attrition analysis.
 
 **🌟 5. Features & Highlights**
 📊 **Treemap** – Visualize attrition by gender
