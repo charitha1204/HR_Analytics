@@ -1,5 +1,4 @@
 **📝 1. Project Title**:
-
 HR Analytics Dashboard – Attrition Analysis Using Power BI
 
 **📌 2. Short Description / Purpose**
