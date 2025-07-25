@@ -6,7 +6,7 @@ This project analyzes employee attrition data to help HR teams understand trends
 
 **🛠️ 3. Tech Stack**
 The dashboard was built using the following tools and technologies:
-->**Power BI Desktop** – To build and design interactive reports and dashboards.
+**Power BI Desktop** – To build and design interactive reports and dashboards.
 **Power Query Editor** – For data cleaning and transformation:
         Removed unnecessary columns
         Removed duplicate rows
