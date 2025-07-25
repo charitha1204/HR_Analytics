@@ -30,5 +30,5 @@ Interactive and user-friendly layout
 This dashboard gives a clear, visual summary of employee attrition. It helps HR teams quickly understand where attrition is high and what factors may be influencing it — all in a single glance.Here is a preview of the HR Analytics dashboard:
 
 ![HR Dashboard](https://github.com/charitha1204/HR_Analytics/blob/main/Screenshot/image.png
-<img width="689" height="23" alt="image">
+<img width="689" height="23">
 )
