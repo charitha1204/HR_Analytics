@@ -1,37 +1,36 @@
-**This project showcases a Power BI dashboard focused on Employee Attrition Analysis. Using an Excel dataset, the report explores trends in employee turnover and highlights key insights using interactive visuals, calculated measures, and a clean report design.**
+**📝 1. Project Title**
+HR Analytics Dashboard – Attrition Analysis Using Power BI
 
- **Objective**
-The main objective is to analyze employee attrition — identifying patterns, departments most affected, and possible contributing factors — to support better HR decision-making.
+**📌 2. Short Description / Purpose**
+This project analyzes employee attrition data to help HR teams understand trends and patterns behind employee turnover. The dashboard offers interactive visuals for key factors such as age, salary, job role, gender, and education to support strategic decision-making.
 
-📁 Dataset
-**HR_Analytics.xlsx:** Contains employee-level data with fields like age, department, job role, job satisfaction, attrition status, etc.
-Loaded and cleaned using Power Query before being used in the dashboard.
+**🛠️ 3. Tech Stack**
+The dashboard was built using the following tools and technologies:
+**Power BI Desktop** – To build and design interactive reports and dashboards.
+**Power Query Editor** – For data cleaning and transformation:
+        Removed unnecessary columns
+        Removed duplicate rows
+        Replaced values
+        Added conditional columns
+**DAX (Data Analysis Expressions)** – For creating custom measures and calculations.
+**Data Modeling** – To define relationships between tables and optimize performance.
+**PBIX File Format** – Power BI’s proprietary report file containing data model, visuals, and layout.
 
-**🧮 DAX Measures & Calculations**
-Total Employees
-Attrition Count
-Attrition Rate
-Average Age
-Average Job Satisfaction
+**📂 4. Data Source**
+**hr_analytics.xlsx **– A sample HR dataset containing employee demographic and employment details used for attrition analysis.
 
-**📊 Key Visualizations**
-Donut Chart – Overall attrition distribution
-Stacked Bar Chart – Department-wise attrition comparison
-Stacked Column Chart – Job role vs attrition
-Area Chart – Attrition trends over time
-Matrix Table – Multi-level detailed view (e.g., by department and gender)
+**🌟 5. Features & Highlights**
+📊 **Treemap** – Visualize attrition by gender
+🧮 **Measures** – Used DAX to calculate key metrics
+🧠 **Slicers **– To filter data dynamically
+🥧** Pie Chart** – Attrition by education
+📈 **Stacked Column Chart** – Attrition by age group
+🧾 **Matrix Table** – Attrition by job role
+💰 **Stacked Bar Chart** – Attrition by salary range
+⛰️ **Area Chart** – Attrition by years at company
+🎨 **Formatting** – Custom canvas background and consistent visual design
 
-**🎨 Design Enhancements**
-Used a custom .png image as canvas background
-Slicers added for Gender, Department, and Job Role
-Interactive and user-friendly layout
-
-**📌 Outcome**
-This dashboard gives a clear, visual summary of employee attrition. It helps HR teams quickly understand where attrition is high and what factors may be influencing it — all in a single glance.Here is a preview of the HR Analytics dashboard:
-
-## 📸 Dashboard Screenshot
-
+**📷 6. Screenshots / Demo**
 [Click to view screenshot](https://raw.githubusercontent.com/charitha1204/HR_Analytics/main/Screenshot/image.png)
-
 
 
