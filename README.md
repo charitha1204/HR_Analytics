@@ -50,6 +50,6 @@ The dashboard was built using the following tools and technologies:
 
 **📷 6. Screenshots / Demo**
 
-[Click to view screenshot](https://raw.githubusercontent.com/charitha1204/HR_Analytics/main/Screenshot/image.png)
+[Click to view screenshot](https://raw.githubusercontent.com/charitha1504/HR_Analytics/main/Screenshot/HR_Analytics.png)
 
 
